@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "asd",
+      "empresa": "asd",
+      "email": "asd@gmail.com",
+      "telefono": "123123",
+      "notas": "qawda",
+      "id": 3
+    }
+  ]
+}
