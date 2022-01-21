@@ -5,7 +5,7 @@ import { NuevoCliente } from './pages/NuevoCliente';
 import { EditarCliente } from './pages/EditarCliente';
 import { VerCliente } from './pages/VerCliente';
 function App() {
-
+  
   return (
     <BrowserRouter>
       <Routes>
